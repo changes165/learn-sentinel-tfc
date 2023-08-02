@@ -1,7 +1,7 @@
 provider "aws" {
   region = var.region
-access_key = "AWS_ACCESS_KEY_ID"
-secret_key = "AWS_SECRET_ACCESS_KEY"
+access_key = "AKIA3SNOT3QH5RJNXW7S"
+secret_key = "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"
 }
 
 data "aws_ami" "ubuntu" {
